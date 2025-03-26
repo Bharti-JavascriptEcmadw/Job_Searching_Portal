@@ -9,7 +9,7 @@ import cookieParser from 'cookie-parser';
 app.use(cookieParser());
 
 // Example to log cookies
-// console.log('Cookies:', req.cookies);
+// console.log('Cookies:no', req.cookies);
 
 
 
